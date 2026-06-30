@@ -1,4 +1,5 @@
-# PowerBI - E-commerce Data Transformation and Data Modeling
+# E-commerce Sales and Profit Analysis using Power BI (Data Modeling)
+
 <img width="556" height="249" alt="image" src="https://github.com/user-attachments/assets/e64f2310-16e3-4891-bbef-d903fb68f88c" />
 
 # 📊 E-Commerce Analysis Using Power BI
