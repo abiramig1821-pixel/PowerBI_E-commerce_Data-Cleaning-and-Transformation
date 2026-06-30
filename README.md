@@ -73,7 +73,9 @@ Analyze product order distributions, category profit margins, and sub-category s
 2. **File Formats:** Clone the repository to access the `.pbix` or `.pbit` file.
 3. **Data Refresh:** Change the source path under **Data Source Settings** to point to your data files.
 
+## Author
 
+**Abirami Ganesan**
 
 
   
